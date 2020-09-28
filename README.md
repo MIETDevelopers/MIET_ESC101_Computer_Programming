@@ -1,2 +1,2 @@
 # MIET_ESC101_Computer_Programming
-Course Name: Computer Programming, Course Code: ESC-101
+Course Name: Computer Programming, Course Code: ESC-101, Language Used: C Programming
